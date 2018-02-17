@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nabin</string>
+    <string name="password_text">Password</string>
+    <string name="username_text">Username</string>
+    <string name="new_account">Dont have an account?</string>
+    <string name="login_button">Log In</string>
+</resources>
